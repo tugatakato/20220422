@@ -14,12 +14,12 @@
 ```markdown
 
 - 旅行に行くこと
-- アニメ鑑賞
 - ラーメン屋に行くこと
+- アニメ鑑賞
 
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+旅行は観光地に行くというよりなるべく現地の人が良くいくような飲食店を探して行ってみたりします。  
+最近は温泉を巡ったりもしてます。
 
 ### Jekyll Themes
 
