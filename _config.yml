@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: ツガのホームページ
 description: GitHub Pagesで作りました
 logo: /logo.png.png
+plugins:
+ -jekyll-sitemap
